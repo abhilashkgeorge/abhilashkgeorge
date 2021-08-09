@@ -59,10 +59,9 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="abhilashkgeorge's GitHub Stats" src="https://github-readme-stats.abhilashkgeorge.vercel.app/api?username=abhilashkgeorge&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
-
 [twitter]: https://twitter.com/AbsKgeorge
 [youtube]: https://www.youtube.com/channel/UCvt4Qb78nmp6AmHPHxXC2RA
 [instagram]: https://instagram.com/abhilash_k_george
