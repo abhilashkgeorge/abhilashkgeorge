@@ -5,7 +5,7 @@
 
 ## I'm an Intern!!
 
-👋 Hi, I’m @abhilashkgeorge
+👋 Hi, I’m @abhilashkgeorge 👋
 👀 I’m interested in learining new things and expanding my skill set.
 🌱 I’m currently learning MongoDB, NodeJS and a proper way to structure my code using github.
 💞️ I’m looking to collaborate on android app development.
@@ -63,3 +63,5 @@
 [youtube]: https://www.youtube.com/channel/UCvt4Qb78nmp6AmHPHxXC2RA
 [instagram]: https://instagram.com/abhilash_k_george
 [linkedin]: https://linkedin.com/in/abhilash-george-153a63211
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
