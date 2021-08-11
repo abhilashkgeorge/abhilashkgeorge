@@ -3,7 +3,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/abhilashkgeorge?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAbsKgeorge&screen_name=AbsKgeorge)
 
-## I'm an Intern!!
+## I'm an Intern!!!
 
 👋 Hi, I’m @abhilashkgeorge 👋
 👀 I’m interested in learining new things and expanding my skill set.
@@ -62,6 +62,7 @@
   <img align="left" alt="abhilashkgeorge's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abhilashkgeorge&show_icons=true&hide_border=true" />
 
 </details>
+
 [twitter]: https://twitter.com/AbsKgeorge
 [youtube]: https://www.youtube.com/channel/UCvt4Qb78nmp6AmHPHxXC2RA
 [instagram]: https://instagram.com/abhilash_k_george
