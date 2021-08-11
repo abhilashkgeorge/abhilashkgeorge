@@ -39,11 +39,10 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [⭐ BONUS: STACKr News Shorts - Top 10 programming languages to learn in 2022](https://www.youtube.com/watch?v=-qcmzbsItnk)
-- [StackOverflow Survey 2021 Results! 📊, Java Roadmap 🚘, Build a Budget App in Python 🐍 // STACKr News](https://www.youtube.com/watch?v=7C3TdqA9vGs)
-- [⭐ BONUS: STACKr News Shorts - Add Authentication to Next.js](https://www.youtube.com/watch?v=H37-PgkpBO0)
-- [VS Code Has Dev Tools & Console!! No Need For Chrome Anymore 👋](https://www.youtube.com/watch?v=vHZPeohPHqo)
-- [⭐ BONUS: STACKr News Shorts - BYE BYE VS CODE ??](https://www.youtube.com/watch?v=r2ha0n2s3wE)
+- [Colour prediction sites. Two working Links . See Description.](https://www.youtube.com/watch?v=QrrPR7MckS0)
+- [My Task explained - Farjet  (New working site link in description)](https://www.youtube.com/watch?v=c9oy6xUw8nU)
+- [Black hole official release NASA April 10 2019 - Must watch](https://www.youtube.com/watch?v=A1wW1So0Ck8)
+- [JBL flip 3 complete teardown 2020](https://www.youtube.com/watch?v=8ak7Mq6axE0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCvt4Qb78nmp6AmHPHxXC2RA)
