@@ -39,23 +39,21 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [⭐ BONUS: STACKr News Shorts - Top 10 programming languages to learn in 2022](https://www.youtube.com/watch?v=-qcmzbsItnk)
-- [StackOverflow Survey 2021 Results! 📊, Java Roadmap 🚘, Build a Budget App in Python 🐍 // STACKr News](https://www.youtube.com/watch?v=7C3TdqA9vGs)
-- [⭐ BONUS: STACKr News Shorts - Add Authentication to Next.js](https://www.youtube.com/watch?v=H37-PgkpBO0)
-- [VS Code Has Dev Tools & Console!! No Need For Chrome Anymore 👋](https://www.youtube.com/watch?v=vHZPeohPHqo)
-- [⭐ BONUS: STACKr News Shorts - BYE BYE VS CODE ??](https://www.youtube.com/watch?v=r2ha0n2s3wE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCvt4Qb78nmp6AmHPHxXC2RA)
 
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
+---
+
+### :zap: Recent Activity
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 </details>
+---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -63,6 +61,7 @@
   <img align="left" alt="abhilashkgeorge's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abhilashkgeorge&show_icons=true&hide_border=true" />
 
 </details>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/AbsKgeorge
 [youtube]: https://www.youtube.com/channel/UCvt4Qb78nmp6AmHPHxXC2RA
