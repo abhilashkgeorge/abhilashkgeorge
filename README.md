@@ -52,7 +52,7 @@
 <details>
 
 ### :zap: Recent Activity
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhilashkgeorge&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhilashkgeorge&repo=github-readme-stats)](https://github.com/abhilashkgeorge/github-readme-stats)
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
