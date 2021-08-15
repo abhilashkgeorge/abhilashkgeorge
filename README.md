@@ -2,6 +2,14 @@
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/abhilashkgeorge?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAbsKgeorge&screen_name=AbsKgeorge)
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD >>>>>>> a7cc3f5d3f4748ea2b543cd0978e21b743e02957
+
+=======
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhilashkgeorge&repo=github-readme-stats)](https://github.com/abhilashkgeorge/github-readme-stats)
+
+>>>>>>> 4c7f8de06eab6374e9c0c9737b863522fe7d3075
 
 ## I'm an Intern!!!
 
