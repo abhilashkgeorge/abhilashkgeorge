@@ -2,18 +2,13 @@
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/abhilashkgeorge?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAbsKgeorge&screen_name=AbsKgeorge)
-<<<<<<< HEAD
-
-=======
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhilashkgeorge&repo=github-readme-stats)](https://github.com/abhilashkgeorge/github-readme-stats)
->>>>>>> a7cc3f5d3f4748ea2b543cd0978e21b743e02957
 
 ## I'm an Intern!!!
 
-👋 Hi, I’m @abhilashkgeorge 👋
-👀 I’m interested in learining new things and expanding my skill set.
-🌱 I’m currently learning MongoDB, NodeJS and a proper way to structure my code using github.
-💞️ I’m looking to collaborate on android app development.
+- 👋 Hi, I’m @abhilashkgeorge 👋
+- 👀 I’m interested in learining new things and expanding my skill set.
+- 🌱 I’m currently learning MongoDB, NodeJS and a proper way to structure my code using github.
+- 💞️ I’m looking to collaborate on android app development.
 
 ### Connect with me:
 
