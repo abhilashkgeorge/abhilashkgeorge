@@ -2,6 +2,7 @@
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/abhilashkgeorge?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAbsKgeorge&screen_name=AbsKgeorge)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhilashkgeorge&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ## I'm an Intern!!!
 
@@ -43,9 +44,10 @@
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCvt4Qb78nmp6AmHPHxXC2RA)
 
-
-<details>
 ---
+<details>
+
+
 
 ### :zap: Recent Activity
 
@@ -61,7 +63,7 @@
   <img align="left" alt="abhilashkgeorge's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abhilashkgeorge&show_icons=true&hide_border=true" />
 
 </details>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [twitter]: https://twitter.com/AbsKgeorge
 [youtube]: https://www.youtube.com/channel/UCvt4Qb78nmp6AmHPHxXC2RA
