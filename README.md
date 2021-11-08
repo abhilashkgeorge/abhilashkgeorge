@@ -41,7 +41,7 @@
 
 <!-- YOUTUBE:START -->
 - [Colour prediction sites. Two working Links . See Description.](https://www.youtube.com/watch?v=QrrPR7MckS0)
-- [My Task explained - Farjet  (New working site link in description)](https://www.youtube.com/watch?v=c9oy6xUw8nU)
+- [My Task explained - Farjet  &lpar;New working site link in description&rpar;](https://www.youtube.com/watch?v=c9oy6xUw8nU)
 - [Black hole official release NASA April 10 2019 - Must watch](https://www.youtube.com/watch?v=A1wW1So0Ck8)
 - [JBL flip 3 complete teardown 2020](https://www.youtube.com/watch?v=8ak7Mq6axE0)
 <!-- YOUTUBE:END -->
