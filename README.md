@@ -55,6 +55,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhilashkgeorge&repo=github-readme-stats)](https://github.com/abhilashkgeorge/github-readme-stats)
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1](https://github.com/abhilashkgeorge/BankAccountModel/pull/1) in [abhilashkgeorge/BankAccountModel](https://github.com/abhilashkgeorge/BankAccountModel)
 <!--END_SECTION:activity-->
 
 </details>
