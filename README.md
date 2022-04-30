@@ -8,8 +8,8 @@
 
 - 👋 Hi, I’m @abhilashkgeorge 👋
 - 👀 I’m interested in learining new things and expanding my skill set.
-- 🌱 I’m currently learning MongoDB, NodeJS and a proper way to structure my code using github.
-- 💞️ I’m looking to collaborate on android app development.
+- 🌱 I’m currently learning Swift and a proper way to structure my code using github.
+- 💞️ I’m looking to collaborate on IOS/Android app development.
 
 ### Connect with me:
 
