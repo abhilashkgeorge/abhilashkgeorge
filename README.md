@@ -11,6 +11,12 @@
 - 🌱 I’m currently learning Swift and a proper way to structure my code using github.
 - 💞️ I’m looking to collaborate with startups.
 
+
+### Why some empty boxes on the graph
+This is why!!
+<img width="1174" alt="image" src="https://github.com/abhilashkgeorge/abhilashkgeorge/assets/72414977/55acf11c-77ea-4c95-9fca-125ba0abf22b">
+
+
 ### Connect with me:
 
 [<img align="left" alt="abhilashkgeorge | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
