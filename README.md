@@ -4,12 +4,12 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/abhilashkgeorge?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAbsKgeorge&screen_name=AbsKgeorge)
 
 
-## I'm an iOS Developer and a python programmer!!!
+## Proficient in Mobile App development using Swift for iOS & React Native for Cross Platform.!!!
 
 - 👋 Hi, I’m @abhilashkgeorge 👋
-- 👀 I’m interested in learining new things and expanding my skill set.
-- 🌱 I’m currently learning Swift and a proper way to structure my code using github.
-- 💞️ I’m looking to collaborate with startups.
+- 👀 Interested in learining new things and expanding my skill set.
+- 🌱 Currently learning Full-Stack and a proper way to structure my code alongside configuring routers and building network tools.
+- 💞️ Working at wifidabba as an Application Software Developer.
 
 
 ### Why some empty boxes on the graph
