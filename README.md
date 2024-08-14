@@ -12,8 +12,6 @@
 - 💞️ Working at wifidabba as an Application Software Developer.
 
 
-### Why some empty boxes on the graph
-This is why!!
 <img width="1174" alt="image" src="https://github.com/abhilashkgeorge/abhilashkgeorge/assets/72414977/55acf11c-77ea-4c95-9fca-125ba0abf22b">
 
 
